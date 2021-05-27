@@ -1,0 +1,24 @@
+{
+"tanaman" : [
+{"id":1,"nama":"Congdon's Tarweed","nama_ilmiah":"Centromadia parryi (Greene) Greene ssp. congdonii (B.L. Rob. & Greenm.) B.G. Baldw.","family":"Asteraceae"},
+{"id":2,"nama":"Cymbalaria","nama_ilmiah":"Cymbalaria Hill","family":"Scrophulariaceae"},
+{"id":3,"nama":"Granular Lichen","nama_ilmiah":"Lopadium pezizoideum (Ach.) Körb.","family":"Ectolechiaceae"},
+{"id":4,"nama":"Mediterranean Hartwort","nama_ilmiah":"Tordylium apulum L.","family":"Apiaceae"},
+{"id":5,"nama":"Purple-spot Parrot-lily","nama_ilmiah":"Alstroemeria haemantha Ruiz & Pav.","family":"Liliaceae"},
+{"id":6,"nama":"Moco De Pavo","nama_ilmiah":"Eriochrysis P. Beauv.","family":"Poaceae"},
+{"id":7,"nama":"Scrabrous Black Sedge","nama_ilmiah":"Carex atratiformis Britton","family":"Cyperaceae"},
+{"id":8,"nama":"Common Serviceberry","nama_ilmiah":"Amelanchier arborea (Michx. f.) Fernald var. arborea","family":"Rosaceae"},
+{"id":9,"nama":"Narrowleaf Cowwheat","nama_ilmiah":"Melampyrum lineare Desr. var. lineare","family":"Scrophulariaceae"},
+{"id":10,"nama":"Krukeberg's Jewelflower","nama_ilmiah":"Streptanthus morrisonii F.W. Hoffm. ssp. kruckebergii Dolan & LaPre","family":"Brassicaceae"},
+{"id":11,"nama":"Siberian Ginseng","nama_ilmiah":"Eleutherococcus senticosus (Rupr. & Maxim.) Maxim.","family":"Araliaceae"},
+{"id":12,"nama":"Carolina Laurel","nama_ilmiah":"Kalmia carolina Small","family":"Ericaceae"},
+{"id":13,"nama":"Coppery Mesemb","nama_ilmiah":"Malephora crocea (Jacq.) Schwant.","family":"Aizoaceae"},
+{"id":14,"nama":"Subterranean Indian Breadroot","nama_ilmiah":"Pediomelum hypogaeum (Nutt. ex Torr. & A. Gray) Rydb. var. hypogaeum","family":"Fabaceae"},
+{"id":15,"nama":"Chulta","nama_ilmiah":"Dillenia indica L.","family":"Dilleniaceae"},
+{"id":16,"nama":"White Mullein","nama_ilmiah":"Verbascum lychnitis L.","family":"Scrophulariaceae"},
+{"id":17,"nama":"Jenny's Stonecrop","nama_ilmiah":"Sedum reflexum L.","family":"Crassulaceae"},
+{"id":18,"nama":"Bitterbrush","nama_ilmiah":"Purshia DC. ex Poir.","family":"Rosaceae"},
+{"id":19,"nama":"Little Deserttrumpet","nama_ilmiah":"Eriogonum trichopes Torr.","family":"Polygonaceae"},
+{"id":20,"nama":"Annual Sandwort","nama_ilmiah":"Minuartia pusilla (S. Watson) Mattf. var. pusilla","family":"Caryophyllaceae"}
+]
+}
